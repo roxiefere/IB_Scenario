@@ -1,0 +1,29 @@
+CompSci IB Practice: Sales
+
+10a.)
+    The difference between a class and an instantiation of a class is that an instance is a concrete occurrence of any object,
+    existing usually during the runtime of a computer program, whereas classes are templates that are used to create objects,
+     and to define object data types and methods.
+
+10b.)
+    Two ways the principals of inheritance can be incorporated into the design of this administrative program is by using the extend
+    function when creating GUIs that have the similar designs. An overreaching class that states these similar designs can have separate
+    classes that extend from it yet contain different specifics.
+10c.)
+    The use of libraries can facilitate the development of programs like this company's administration program by separating objects
+     based on things like authors name or genre. These overreaching sections contain subsections that can help navigate how and where
+      to find a book.
+11b.)
+    The accessor methods are necessary for the SalesPerson class because there are variables that need to be manipulated by the user.
+11ci.)
+    (on a piece of paper)
+11cii.)
+    A negative effect that future changes in the design of the Sales object might have on this suite of programs is that it can only
+    hold the price of one item at a time.
+11d.)
+    The output after running this code would be 102, 0, 2550.40, 1300.00
+11h.)
+    Changes that must be made to the SalesPerson class to allow these calculations to be made are an object that identifies
+     what that Sales Person's salary is.
+11i.)
+    The use of polymorphism that occurs in this suite of programs are in the SalesPerson class.
